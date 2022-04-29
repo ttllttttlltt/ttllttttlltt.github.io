@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sheng Ye &#8211; AirDip</title>
+	<atom:link href="/author/sheng-ye/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Dip in the AIR</description>
+	<lastBuildDate>Fri, 29 Apr 2022 14:55:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/04/airdip-150x150.png</url>
+	<title>Sheng Ye &#8211; AirDip</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello World!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Sheng Ye]]></dc:creator>
+		<pubDate>Fri, 29 Apr 2022 12:42:30 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[air quality]]></category>
+		<category><![CDATA[airquix]]></category>
+		<category><![CDATA[coming soon]]></category>
+		<guid isPermaLink="false">/?p=10</guid>
+
+					<description><![CDATA[Who are we? We are a team from Munich, focusing on smart precise affordable air quality monitoring device as well as corresponding services. We always ensure the data quality based on our researches in Air quality research group @ LMU. Why &#8220;AIRDIP&#8220;? We are aiming to let everyone:Grade the AIR, and Dip in the (FRESH) &#8230; <p class="link-more"><a href="/hello-world/" class="more-link">Continue reading<span class="screen-reader-text"> "Hello World!"</span></a></p>]]></description>
+										<content:encoded><![CDATA[
+<h2>Who are we?</h2>
+
+
+
+<p>We are a team from Munich, focusing on smart precise affordable air quality monitoring device as well as corresponding services. We always ensure the data quality based on our researches in <a href="https://www.en.meteo.physik.uni-muenchen.de/forschung/spurengase/index.html" target="_blank" rel="noopener">Air quality research group @ LMU</a>.</p>
+
+
+
+<h2>Why &#8220;AIR<strong>DIP</strong>&#8220;?</h2>
+
+
+
+<p>We are aiming to let everyone:<br><strong>Grade the AIR, and Dip in the (FRESH) AIR!</strong>.</p>
+
+
+
+<h2>How..? When..? What..?</h2>
+
+
+
+<p>Wait for it…<br><strong>More are coming SOON!</strong></p>
+
+
+
+<p>Contact us: <a href="mailto:sheng.ye@physik.uni-muenchen.de">Sheng Ye</a><br>More info: <a href="https://www.en.meteo.physik.uni-muenchen.de/forschung/spurengase/index.html" target="_blank" rel="noopener">Air quality research group @ LMU</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
