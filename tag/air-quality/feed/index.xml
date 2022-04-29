@@ -12,7 +12,7 @@
 	<atom:link href="/tag/air-quality/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Dip in the AIR</description>
-	<lastBuildDate>Fri, 29 Apr 2022 14:55:00 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 29 Apr 2022 15:45:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Hello World!</title>
 		<link>/hello-world/</link>
-					<comments>/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[Sheng Ye]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 12:42:30 +0000</pubDate>
@@ -69,8 +68,6 @@
 <p>Contact us: <a href="mailto:sheng.ye@physik.uni-muenchen.de">Sheng Ye</a><br>More info: <a href="https://www.en.meteo.physik.uni-muenchen.de/forschung/spurengase/index.html" target="_blank" rel="noopener">Air quality research group @ LMU</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
