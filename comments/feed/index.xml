@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for AirDip	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://www.airdip.de/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.airdip.de/</link>
 	<description>Dip in the AIR</description>
 	<lastBuildDate>Sat, 30 Apr 2022 00:01:42 +0000</lastBuildDate>
 	<sy:updatePeriod>

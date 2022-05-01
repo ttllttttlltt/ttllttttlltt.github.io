@@ -9,8 +9,8 @@
 
 <channel>
 	<title>coming soon &#8211; AirDip</title>
-	<atom:link href="/tag/coming-soon/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="http://www.airdip.de/tag/coming-soon/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.airdip.de/</link>
 	<description>Dip in the AIR</description>
 	<lastBuildDate>Fri, 29 Apr 2022 15:45:35 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/airdip-150x150.png</url>
+	<url>http://www.airdip.de/wp-content/uploads/2022/04/airdip-150x150.png</url>
 	<title>coming soon &#8211; AirDip</title>
-	<link>/</link>
+	<link>http://www.airdip.de/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello World!</title>
-		<link>/hello-world/</link>
+		<link>http://www.airdip.de/hello-world/</link>
 		
 		<dc:creator><![CDATA[Sheng Ye]]></dc:creator>
 		<pubDate>Fri, 29 Apr 2022 12:42:30 +0000</pubDate>
@@ -37,9 +37,9 @@
 		<category><![CDATA[air quality]]></category>
 		<category><![CDATA[airquix]]></category>
 		<category><![CDATA[coming soon]]></category>
-		<guid isPermaLink="false">/?p=10</guid>
+		<guid isPermaLink="false">http://www.airdip.de/?p=10</guid>
 
-					<description><![CDATA[Who are we? We are a team from Munich, focusing on smart precise affordable air quality monitoring device as well as corresponding services. We always ensure the data quality based on our researches in Air quality research group @ LMU. Why &#8220;AIRDIP&#8220;? We are aiming to let everyone:Grade the AIR, and Dip in the (FRESH) &#8230; <p class="link-more"><a href="/hello-world/" class="more-link">Continue reading<span class="screen-reader-text"> "Hello World!"</span></a></p>]]></description>
+					<description><![CDATA[Who are we? We are a team from Munich, focusing on smart precise affordable air quality monitoring device as well as corresponding services. We always ensure the data quality based on our researches in Air quality research group @ LMU. Why &#8220;AIRDIP&#8220;? We are aiming to let everyone:Grade the AIR, and Dip in the (FRESH) &#8230; <p class="link-more"><a href="http://www.airdip.de/hello-world/" class="more-link">Continue reading<span class="screen-reader-text"> "Hello World!"</span></a></p>]]></description>
 										<content:encoded><![CDATA[
 <h2>Who are we?</h2>
 
