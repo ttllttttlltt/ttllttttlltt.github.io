@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: About us	</title>
-	<atom:link href="http://www.airdip.de/about_us/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.airdip.de/</link>
+	<atom:link href="https://www.airdip.de/about_us/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.airdip.de/</link>
 	<description>Dip in the AIR</description>
 	<lastBuildDate>Fri, 29 Apr 2022 15:32:30 +0000</lastBuildDate>
 	<sy:updatePeriod>

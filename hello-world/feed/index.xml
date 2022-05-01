@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello World!	</title>
-	<atom:link href="http://www.airdip.de/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.airdip.de/hello-world/</link>
+	<atom:link href="https://www.airdip.de/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.airdip.de/hello-world/</link>
 	<description>Dip in the AIR</description>
 	<lastBuildDate>Fri, 29 Apr 2022 15:45:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
